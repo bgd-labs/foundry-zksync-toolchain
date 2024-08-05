@@ -1,16 +1,16 @@
 name: nodejs
 
-on: 
+on:
   pull_request:
     branches:
       - master
     paths-ignore:
-      - '**.md'
+      - "**.md"
   push:
     branches:
       - master
     paths-ignore:
-      - '**.md'
+      - "**.md"
 
 jobs:
   check-dist:
