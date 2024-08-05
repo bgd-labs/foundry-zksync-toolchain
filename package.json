@@ -1,6 +1,6 @@
 {
-  "name": "@foundry-rs/foundry-toolchain",
-  "version": "1.0.8",
+  "name": "@bgd-labs/foundry-zksync-toolchain",
+  "version": "1.0.0",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/index.js",
   "keywords": [
